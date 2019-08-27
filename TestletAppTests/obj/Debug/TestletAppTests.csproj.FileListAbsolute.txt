@@ -1,0 +1,17 @@
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\TestletAppTests.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\TestletAppTests.pdb
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\TestletApp.exe
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\TestletApp.pdb
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\TestletApp.exe.config
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\obj\Debug\TestletAppTests.csprojAssemblyReference.cache
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\obj\Debug\TestletAppTests.csproj.CoreCompileInputs.cache
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\obj\Debug\TestletAppTests.csproj.CopyComplete
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\obj\Debug\TestletAppTests.dll
+C:\Users\vidya\Projects\TestletApp\TestletAppTests\obj\Debug\TestletAppTests.pdb

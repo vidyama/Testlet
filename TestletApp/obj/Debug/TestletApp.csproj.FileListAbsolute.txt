@@ -1,0 +1,7 @@
+C:\Users\vidya\Projects\TestletApp\TestletApp\bin\Debug\TestletApp.exe.config
+C:\Users\vidya\Projects\TestletApp\TestletApp\bin\Debug\TestletApp.exe
+C:\Users\vidya\Projects\TestletApp\TestletApp\bin\Debug\TestletApp.pdb
+C:\Users\vidya\Projects\TestletApp\TestletApp\obj\Debug\TestletApp.csprojAssemblyReference.cache
+C:\Users\vidya\Projects\TestletApp\TestletApp\obj\Debug\TestletApp.csproj.CoreCompileInputs.cache
+C:\Users\vidya\Projects\TestletApp\TestletApp\obj\Debug\TestletApp.exe
+C:\Users\vidya\Projects\TestletApp\TestletApp\obj\Debug\TestletApp.pdb
